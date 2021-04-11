@@ -1,6 +1,6 @@
 # BeATeacher - Console Adventure Game
 
-#### C# Week One Practice _q0th April. 2021_
+#### C# Week One Practice _10th April. 2021_
 
 #### By _**Keturah Howard**_
 
