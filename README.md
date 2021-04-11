@@ -33,7 +33,7 @@ none yet.
 - Git
 - VS Code
 - C#
-- .NET
+- .NET5
 
 ## Known Bugs
 
